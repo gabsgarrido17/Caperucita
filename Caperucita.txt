@@ -1,1 +1,2 @@
 Esta es una prueba con Source Tree
+Edicion desde el escritorio remoto, pueba de pull con Source Tree
